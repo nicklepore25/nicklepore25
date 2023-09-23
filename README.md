@@ -2,8 +2,7 @@
 
 Welcome to my corner of the digital universe, where data dances to the rhythm of B(eyoncé)ayesian statistics, machine learning, and probability 📊🤖
 
-👀 My passion lies at the intersection of data and intelligence. I'm on a perpetual quest to unlock the secrets hidden within data through the  
-lens of Bayesian statistics and the power of machine learning. From predictive models to probabilistic reasoning, I find beauty in the numbers.
+👀 My passion lies at the intersection of data and intelligence. I'm on a perpetual quest to unlock the secrets hidden within data through the  lens of Bayesian statistics and the power of machine learning. From predictive models to probabilistic reasoning, I find beauty in the numbers.
 
 🌱 Currently, my journey is guided by the Bayesian compass. I'm immersed in the art of probabilistic programming, exploring the depths of Bayesian inference, 
 and harnessing the magic of neural networks for real-world applications. Every line of code is a step closer to unraveling the mysteries of the data-driven cosmos.
