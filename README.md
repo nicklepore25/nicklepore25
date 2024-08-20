@@ -1,18 +1,12 @@
 ### Hey there! 👋 I'm Nick Lepore (@nicklepore25), proud alumni of Tyngsboro's Elementary School of 2004. 
 
-Welcome to my corner of the digital universe, where data dances to the soul of B(eyoncé)ayesian statistics, machine learning, and probability 📊🤖
+Welcome to my personal corner of the web! I’m Nick Lepore 🏳️‍🌈, an applied statistician based in New York City. I hold a Master of Science in Statistics from New York University, with a concentration in computational methodologies. My academic journey sparked a deep interest in Bayesian mathematics, machine learning, large language models, probability theory, and social science.
 
-🎲 My passion lies at the intersection of data and intelligence. I'm on a perpetual quest to unlock the secrets hidden within data through Bayesian statistics and the power of machine learning. 
+In addition to my passion for statistics and data, music has always been a major part of my life. You’ll often find me grooving to Beyoncé 🪩, Joni Mitchell, ABBA, Stevie Nicks, and all things 80s music.
 
-🪩 Currently, my journey is guided by the Bayesian compass. I'm immersed in the art of probabilistic programming, exploring the depths of Bayesian inference, 
-and harnessing the magic of neural networks for real-world applications. 
+My client experiences have been dedicated to championing progressive causes and candidates up and down ballot. My work has contributed to the advancement of LGBTQ+ rights through collaborations with the Movement Advancement Project (MAP), the Trevor Project, the Gill Foundation, Everytown, and UCLA’s Williams Institute. My work, particularly with MAP, has helped provide state-based groups with strategic messaging and demographic analysis on how to best discuss gender-affirming care to voters, ban conversion therapy in state and local communities, and target swing voters in hard-to-win elections.
 
-🖤 I'm always thrilled to collaborate with fellow data enthusiasts, machine learning aficionados, and those who fancy causal conversations. 
-If you're as captivated by the wonders of probability and data science as I am, let's join forces. Together, we can craft data-driven 
-solutions that reshape industries and illuminate the path forward.
-
-🏳️‍🌈 Excited to discuss Bayesian marvels, machine learning musings, or simply connect with a fellow enthusiast? 
-Reach out to me at on LinkedIn or Instagram (@nick_lepore) and let's chat music, probability, Marvel comics, and travelling. 
+This github is a space where I’ll share my insights, opinions, post some helpful functions and code, hot-takes, and the occasional rant. Feel free to take a look around!
 
 <!---
 nicklepore25/nicklepore25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
